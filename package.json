@@ -1,0 +1,34 @@
+{
+  "name": "gamesource",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "@tiptap/pm": "^2.3.0",
+    "@tiptap/starter-kit": "^2.3.0",
+    "@tiptap/vue-3": "^2.3.0",
+    "bootstrap": "^5.3.3",
+    "firebase": "^10.11.0",
+    "pinia": "^2.1.7",
+    "vee-validate": "^4.12.6",
+    "vue": "^3.4.21",
+    "vue-masonry": "^0.16.0",
+    "vue-router": "^4.3.0",
+    "vue-toast-notification": "^3.1.2",
+    "vue3-carousel": "^0.3.3",
+    "vuetify": "^3.5.15",
+    "yup": "^1.4.0"
+  },
+  "devDependencies": {
+    "@mdi/font": "^7.4.47",
+    "@vitejs/plugin-vue": "^5.0.4",
+    "vite": "^5.2.8",
+    "vite-plugin-vue-devtools": "^7.0.25"
+  }
+}
