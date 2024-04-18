@@ -29,5 +29,6 @@ coverage
 
 *.tsbuildinfo
 
-.firebaserc
-firebase.json
+fbcodes.json
+firebase.js
+

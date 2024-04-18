@@ -1,29 +1,20 @@
 # gamesource
 
-This template should help get you started developing with Vue 3 in Vite.
 
-## Recommended IDE Setup
+## This is a static Vue 3 website using Firebase for DB, Auth, and hosting
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
-## Customize configuration
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+## https://gamesource-2ea61.web.app/
 
-## Project Setup
 
-```sh
-npm install
-```
 
-### Compile and Hot-Reload for Development
+## Dependencies of note
 
 ```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
+Vue 3
+Firebase
+Pinia
+vee-validate
+vuetify
 ```
