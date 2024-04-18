@@ -15,7 +15,7 @@ jobs:
         with:
           node-version: '20.10.0'
       - run: npm ci
-      - uses: w9jds/firebase-action@v2
+      - uses: w9jds/firebase-action@v1.5.0
         with:
           args: deploy --only hosting -P gamesource-2ea61
         env:
