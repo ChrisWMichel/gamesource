@@ -15,14 +15,5 @@ export default defineConfig({
       '@': fileURLToPath(new URL('./src', import.meta.url))
     }
   },
-  // "hosting": {
-  //   "public": "dist",
-  //   "ignore": [],
-  //   "rewrites": [
-  //     {
-  //       "source": "**",
-  //       "destination": "/index.html"
-  //     }
-  //   ]
-  // }
+ 
 })

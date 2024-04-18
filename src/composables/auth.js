@@ -28,7 +28,7 @@ export const isAuth = (to, from, next) => {
 export const isLoggedIn = (to, from, next) => {
     let user = AUTH.currentUser;
     if(user) {
-        next('/');
+        next();
       } else {
         next();
       }
